@@ -274,7 +274,7 @@ export default function Home() {
                             description="A responsive website for an architect, showcasing their portfolio and services with an interactive dashboard."
                             image="/placeholder.svg?height=600&width=800"
                             tags={["React", "OpenWeather API", "Chart.js"]}
-                            link="#"
+                            link="https://patriarchplus.com"
                             index={3}
                         />
                     </div>
